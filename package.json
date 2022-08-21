@@ -3,6 +3,7 @@
   "displayName": "codebox",
   "repository": "https://github.com/jak2k/codebox",
   "description": "",
+  "publisher": "jak2k",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
