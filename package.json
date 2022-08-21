@@ -1,0 +1,31 @@
+{
+  "name": "codebox",
+  "displayName": "codebox",
+  "repository": "https://github.com/jak2k/codebox",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bierner.github-markdown-preview",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "bierner.markdown-footnotes",
+    "bierner.markdown-mermaid",
+    "bierner.markdown-preview-github-styles",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "Gruntfuggly.todo-tree",
+    "mhutchie.git-graph",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-audio",
+    "PKief.material-icon-theme",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vivaxy.vscode-conventional-commits"
+  ]
+}
