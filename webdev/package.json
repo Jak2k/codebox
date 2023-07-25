@@ -1,0 +1,26 @@
+{
+  "name": "codebox.webdev",
+  "displayName": "codebox - webdev",
+  "repository": "https://github.com/jak2k/codebox",
+  "description": "More codebox extensions for web development",
+  "publisher": "jak2k",
+  "version": "0.0.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "jak2k.codebox",
+    "dbaeumer.vscode-eslint",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "vincaslt.highlight-matching-tag",
+    "ritwickdey.lives",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "mattpocock.ts-error-translator",
+    "swellaby.node-pack"
+  ]
+}
