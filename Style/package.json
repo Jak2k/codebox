@@ -1,0 +1,20 @@
+{
+  "name": "codebox-style",
+  "displayName": "codebox - Style",
+  "repository": "https://github.com/jak2k/codebox",
+  "description": "More codebox extensions for GitHub",
+  "publisher": "jak2k",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "katsute.code-background",
+    "file-icons.file-icons",
+    "jak2k.codebox",
+    "piousdeer.adwaita-theme"
+  ]
+}
