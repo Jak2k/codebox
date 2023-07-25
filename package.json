@@ -4,7 +4,7 @@
   "repository": "https://github.com/jak2k/codebox",
   "description": "Codebox your out-of-the-box experience for VS-Code.",
   "publisher": "jak2k",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.70.0"
   },
