@@ -1,10 +1,10 @@
 {
-  "name": "codebox.webdev",
+  "name": "codebox-webdev",
   "displayName": "codebox - webdev",
   "repository": "https://github.com/jak2k/codebox",
   "description": "More codebox extensions for web development",
   "publisher": "jak2k",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.70.0"
   },
