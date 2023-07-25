@@ -1,0 +1,23 @@
+{
+  "name": "codebox-github",
+  "displayName": "codebox - GitHub",
+  "repository": "https://github.com/jak2k/codebox",
+  "description": "More codebox extensions for GitHub",
+  "publisher": "jak2k",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "github.vscode-github-actions",
+    "github.codespaces",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.copilot-labs",
+    "github.vscode-pull-request-github",
+    "jak2k.codebox"
+  ]
+}
