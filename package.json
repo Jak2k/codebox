@@ -2,7 +2,7 @@
   "name": "codebox",
   "displayName": "codebox",
   "repository": "https://github.com/jak2k/codebox",
-  "description": "",
+  "description": "Codebox your out-of-the-box experience for VS-Code.",
   "publisher": "jak2k",
   "version": "0.1.0",
   "engines": {
@@ -12,22 +12,27 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "jannisx11.batch-rename-extension",
+    "aaron-bond.better-comments",
+    "alefragnani.book",
+    "vsls-contrib.codetour",
+    "naumovs.color-highlight",
+    "vivaxy.vscode-conventional-commits",
+    "mikestead.dotenv",
     "bierner.github-markdown-preview",
     "bierner.markdown-checkbox",
     "bierner.markdown-emoji",
     "bierner.markdown-footnotes",
     "bierner.markdown-mermaid",
     "bierner.markdown-preview-github-styles",
-    "christian-kohler.path-intellisense",
     "eamodio.gitlens",
-    "Gruntfuggly.todo-tree",
-    "mhutchie.git-graph",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
     "ms-vsliveshare.vsliveshare",
-    "ms-vsliveshare.vsliveshare-audio",
-    "PKief.material-icon-theme",
-    "VisualStudioExptTeam.intellicode-api-usage-examples",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "vivaxy.vscode-conventional-commits",
-    "jak2k.codebox-walkthroughs"
+    "cardinal90.multi-cursor-case-preserve",
+    "swellaby.node-pack",
+    "antfu.retypewriter",
+    "monilpatel.learn-keyboard-shortcuts",
+    "gruntfuggly.todo-tree"
   ]
 }
